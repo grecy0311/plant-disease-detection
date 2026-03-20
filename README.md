@@ -108,9 +108,11 @@ This project uses **Artificial Intelligence** to detect plant diseases quickly a
 
 ## ▶️ Execution Notes (Important)
 
-**Step 1: First, chnage the environment for Run the main.py file first (for dataset model processing):**
-```bash
+### Step 1: Activate Environment
 conda activate base
-**Step 2: Then run the real-time disease detection file using Streamlit:**
-```bash
+
+### Step 2: Run Dataset Model
+python main.py
+
+### Step 3: Run Real-Time Detection (Streamlit)
 streamlit run real_time_disease.py
