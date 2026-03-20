@@ -106,7 +106,7 @@ This project uses **Artificial Intelligence** to detect plant diseases quickly a
 
 ---
 
-## ▶️ Execution Notes (Important)
+## ▶️ How to run this project follow this instruction(Important)
 
 ### Step 1: Activate Environment
 conda activate base
